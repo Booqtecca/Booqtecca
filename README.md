@@ -4,6 +4,11 @@
   I'm a passionate Software Developer specialized in crafting immersive gaming experiences and creating versatile Discord bots.
 </p>
 
+<!-- Anime Character -->
+<p align="center">
+  <img src="https://media.giphy.com/media/Vcz0N6hhiT03w/giphy.gif" alt="Anime Character" width="150" height="150">
+</p>
+
 <!-- Main Sections -->
 <h2 align="center">🚀 What I Do</h2>
 <p align="center">
@@ -22,7 +27,7 @@
 <!-- Contact and Social Media -->
 <h2 align="center">📫 Get in Touch</h2>
 <p align="center">
-  Let's collaborate! Feel free to reach out to me via email at mykos@example.com<br/>
+  Let's collaborate! Feel free to reach out to me via email at Antomic@gmail.com<br/>
   You can also connect with me on <a href="https://twitter.com/Booqtecca">Twitter</a>.
 </p>
 
@@ -45,3 +50,4 @@
 <p align="center">
   <strong>Thanks for stopping by!</strong>
 </p>
+ 
