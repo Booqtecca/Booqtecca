@@ -24,10 +24,17 @@
   - 🚀 Creating a real-time chat application with PHP and React.js.
 </p>
 
+<!-- Professional Experience -->
+<h2 align="center">💼 Professional Experience</h2>
+<ul align="center">
+  <li>Lead Developer at XYZ Game Studio - Responsible for designing and implementing game mechanics.</li>
+  <li>Software Engineer at ABC Tech Solutions - Developed scalable web applications using PHP and Node.js.</li>
+</ul>
+
 <!-- Contact and Social Media -->
 <h2 align="center">📫 Get in Touch</h2>
 <p align="center">
-  Let's collaborate! Feel free to reach out to me via email at Antomic@gmail.com<br/>
+  Let's collaborate! Feel free to reach out to me via email at antomic@gmail.com<br/>
   You can also connect with me on <a href="https://twitter.com/Booqtecca">Twitter</a>.
 </p>
 
@@ -43,11 +50,10 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Statistics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Booqtecca&show_icons=true&theme=gotham" alt="Mykos GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=booqtecca&show_icons=true&theme=gotham" alt="Mykos GitHub Stats"/>
 </p>
 
 <!-- Footer -->
 <p align="center">
   <strong>Thanks for stopping by!</strong>
 </p>
- 
