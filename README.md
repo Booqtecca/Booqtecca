@@ -38,7 +38,7 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Statistics</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mykos&show_icons=true&theme=gotham" alt="Mykos GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Booqtecca&show_icons=true&theme=gotham" alt="Mykos GitHub Stats"/>
 </p>
 
 <!-- Footer -->
