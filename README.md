@@ -1,51 +1,22 @@
-<h1 align="center">👋 Hello, I'm Mykos</h1>
-<p align="center">
-  I'm a passionate Software Developer specialized in crafting immersive gaming experiences and creating versatile Discord bots.
-</p>
+# 💫 About Me:
+Hey, I'm Bruno. Welcome! I program in PHP, HTML, JavaScript, Golang, and C++.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/Vcz0N6hhiT03w/giphy.gif" alt="Anime Character" width="150" height="150">
-</p>
 
-<h2 align="center">🚀 What I Do</h2>
-<p align="center">
-  🎮 Crafting engaging video game experiences with Java.<br/>
-  🤖 Building powerful Discord bots with JavaScript.<br/>
-  💻 Developing dynamic web applications with PHP and Node.js.
-</p>
+# 💻 Tech Stack:
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Golang](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-<h2 align="center">💡 Current Projects</h2>
-<p align="center">
-  🌟 Developing a multiplayer survival game using Java and Unity.<br/>
-  🤖 Building a modular Discord bot framework in JavaScript.<br/>
-  🚀 Creating a real-time chat application with PHP and React.js.
-</p>
 
-<h2 align="center">💼 Professional Experience</h2>
-<ul align="center">
-  <li>Lead Developer at XYZ Game Studio - Responsible for designing and implementing game mechanics.</li>
-  <li>Software Engineer at ABC Tech Solutions - Developed scalable web applications using PHP and Node.js.</li>
-</ul>
+# 📊 GitHub Stats:
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Booqtecca&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Booqtecca&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs?username=Booqtecca&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h2 align="center">📫 Get in Touch</h2>
-<p align="center">
-  Let's collaborate! Feel free to reach out to me via email at antomic@gmail.com<br/>
-  You can also connect with me on <a href="https://twitter.com/Booqtecca">Twitter</a>.
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=Booqtecca&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<h2 align="center">🛠️ Languages and Tools</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-</p>
-
-<h2 align="center">📊 GitHub Statistics</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=booqtecca&show_icons=true&theme=gotham" alt="Mykos GitHub Stats"/>
-</p>
-
-<p align="center">
-  <strong>Thanks for stopping by!</strong>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
